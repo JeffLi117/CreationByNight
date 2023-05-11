@@ -27,4 +27,21 @@
         align-items: center;
         padding: 0;
     }
+    a:link, a:visited {
+        color: white;
+        text-decoration: none;
+    }
+    a:hover {
+        color: rgb(190, 100, 255);
+        text-decoration: none;
+    }
+    a:active {
+        color: orangered;
+        text-decoration: none;
+    }
+    footer {
+        padding: 5px;
+        font-size: 0.9rem;
+        opacity: 0.7;
+    }
 </style>

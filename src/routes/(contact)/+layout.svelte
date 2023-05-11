@@ -14,3 +14,15 @@
 <footer>
     <p>Copyright 2023 <a href="https://github.com/JeffLi117">JeffLi117 <Fa icon={faGithub} /></a></p>
 </footer>
+
+
+<style>
+    :global(body) {
+		background-image: none;
+	}
+    footer {
+        padding: 5px;
+        font-size: 0.9rem;
+        opacity: 0.7;
+    }
+</style>
